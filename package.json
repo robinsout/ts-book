@@ -1,0 +1,20 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:watch": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.5.1",
+    "@types/node": "^17.0.35",
+    "jest": "^28.1.0",
+    "ts-jest": "^28.0.3",
+    "tslint": "^6.1.3",
+    "typescript": "^4.7.2"
+  }
+}
